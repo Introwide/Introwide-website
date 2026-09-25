@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="sw">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kuhusu Sisi - INTROWIDE GROUP LIMITED</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="logo">INTROWIDE GROUP LIMITED</div>
+    <nav>
+      <a href="index.html">Nyumbani</a>
+      <a href="about.html">Kuhusu Sisi</a>
+      <a href="services.html">Huduma</a>
+      <a href="contact.html">Wasiliana</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>KUHUSU SISI</h1>
+    <p>INTROWIDE GROUP LIMITED ni kampuni ya Kitanzania yenye makao makuu Nyegezi, Mwanza.</p>
+  </section>
+
+  <section class="services">
+    <h2>Dira Yetu</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>DIRA</h3>
+        <p>Kuwa kampuni inayoongoza Tanzania na Afrika Mashariki katika kutoa huduma mbalimbali za kitaalamu.</p>
+      </div>
+      <div class="card">
+        <h3>DHIMA</h3>
+        <p>Kutoa huduma bora kwa wateja wetu, kuwapa wafanyakazi wetu mazingira bora ya kazi, na kuchangia maendeleo ya jamii.</p>
+      </div>
+      <div class="card">
+        <h3>MAADILI</h3>
+        <p>Uadilifu, Nidhamu, Ubunifu, Ushirikiano, na Uzingatiaji wa Sheria.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p class="contact">INTROWIDE GROUP LIMITED</p>
+    <p>P.O. Box 734, Nyegezi, Mwanza, Tanzania</p>
+    <p>Simu: +255 797 616 673</p>
+    <p>Barua Pepe: introwidegroup@gmail.com</p>
+    <p style="margin-top: 20px; color: #c9a84c;">WE STAND TOGETHER</p>
+  </footer>
+</body>
+</html>
